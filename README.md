@@ -10,6 +10,7 @@ To offer a transparent, immutable and publicly auditable mechanism for climate a
 
 ## Key Features
 
+
 - ETH burn as proof-of-offset
 - Hash-linked verification for claimable carbon proofs
 - Anti-duplication via hash checks
