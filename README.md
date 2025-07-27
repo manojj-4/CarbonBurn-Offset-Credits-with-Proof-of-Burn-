@@ -9,7 +9,7 @@ CarbonBurn is a smart contract for offsetting carbon emissions through ETH burns
 To offer a transparent, immutable and publicly auditable mechanism for climate action through crypto-native mechanisms like burn proofs.
 
 ## Key Features       
-
+  
 
 - ETH burn as proof-of-offset
 - Hash-linked verification for claimable carbon proofs
