@@ -1,4 +1,4 @@
-# Project Title: CarbonBurn: Offset Credits with Proof-of-Burn manoj ahirwar
+# Project Title: CarbonBurn: Offset Credits with Proof-of-Burn manoj ahirwar  
 
 ## Project Description       
 
