@@ -24,5 +24,5 @@ To offer a transparent, immutable and publicly auditable mechanism for climate a
 - Tokenization of carbon credits on-chain
 
 ## Contract Details 
-0x0E4f586497fAD2465C2B492D9573B33A1A6E473B   
+0x0E4f586497fAD2465C2B492D9573B33A1A6E473B     
 ![alt text](image.png)   
